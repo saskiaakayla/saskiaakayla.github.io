@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kopi Nusantara
-[Tugas 4-11: Analisis Privasi Browser](browser.html)
+---
 
 # Selamat datang di blog Kopi Nusantara
 
@@ -11,3 +11,4 @@ Daftar tulisan:
 - [Cara Menyeduh Kopi](post2.html) - Label: Tutorial
 - [Review Alat Seduh](post3.html) - Label: Review
 - [Kafe Favorit Saya](post4.html) - Label: Rekomendasi
+- [Tugas 4-11: Analisis Privasi Browser](browser.html)
