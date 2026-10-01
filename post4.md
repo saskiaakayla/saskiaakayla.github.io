@@ -12,5 +12,7 @@ Aku punya beberapa kriteria untuk kafe kopi favorit: kopinya enak, suasananya ny
 Kamu bisa mencari kafe lokal di sekitar tempat tinggalmu. Biasanya kafe kecil punya biji kopi unik dan barista yang ramah menjelaskan rasanya. Jangan ragu bertanya soal asal biji kopi mereka.
 
 Punya kafe favorit? Tulis di kolom komentar.
+---
+💬 [Tulis komentar di sini](https://github.com/saskiaakayla/saskiaakayla.github.io/discussions)
 
 [Kembali ke beranda](index.html)
