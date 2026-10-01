@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kopi Nusantara
----
+[Tugas 4-11: Analisis Privasi Browser](browser.html)
 
 # Selamat datang di blog Kopi Nusantara
 
