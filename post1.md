@@ -14,5 +14,7 @@ Kopi punya banyak jenis, tapi yang paling terkenal ada dua: Arabika dan Robusta.
 Indonesia terkenal sebagai penghasil kopi berkualitas, misalnya Gayo dari Aceh, Toraja dari Sulawesi, dan Kintamani dari Bali. Tiap daerah punya rasa khas karena tanah dan cuacanya berbeda.
 
 Untuk pemula, coba mulai dari Arabika. Rasanya biasanya lebih mudah diterima lidah.
+---
+💬 [Tulis komentar di sini](https://github.com/saskiaakayla/saskiaakayla.github.io/discussions)
 
 [Kembali ke beranda](index.html)
