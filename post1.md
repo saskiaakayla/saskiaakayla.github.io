@@ -7,7 +7,7 @@ title: Mengenal Jenis Kopi
 
 **Label: Tips**
 
-![Foto kopi](kopi.jpg)
+![Foto kopi](IMG_2026.jpeg)
 
 Kopi punya banyak jenis, tapi yang paling terkenal ada dua: Arabika dan Robusta. Arabika rasanya lebih asam dan harum, cocok untuk kamu yang suka kopi dengan aroma buah atau bunga. Robusta rasanya lebih pahit dan kuat, kandungan kafeinnya juga lebih tinggi.
 
